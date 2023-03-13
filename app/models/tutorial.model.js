@@ -1,3 +1,7 @@
+// What does mongoose.model do?
+// What does mongoose.Schema do?
+// What object type is Tutorial? => an Object
+
 module.exports = mongoose => {
   const Tutorial = mongoose.model(
     "tutorial",
